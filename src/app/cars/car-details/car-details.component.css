@@ -1,0 +1,22 @@
+.car-details-img {
+    border-radius: 50%;
+}
+
+.card {
+    background-color: #393e46;
+    color: #eeeeee;
+}
+
+.card-title {
+    color: #b3aeae;
+    font-weight: 700;
+}
+
+hr {
+    background-color: white;
+}
+
+.main-hr {
+    width: 50%;
+    margin-bottom: 2rem;
+}

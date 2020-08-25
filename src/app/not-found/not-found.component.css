@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Fenix', serif;
+    font-size: 4rem;
+    color: #3f72af;
+    padding-top: 1rem;
+}
+
+hr {
+    background-color: white;
+    width: 50%;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,13 @@
+.card {
+    background-color: #393e46;
+}
+
+.card-text {
+    color: #eeeeee;
+}
+
+hr {
+    background-color: white;
+    width: 50%;
+    margin-bottom: 2rem;
+}
